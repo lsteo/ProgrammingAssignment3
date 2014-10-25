@@ -6,9 +6,6 @@ if (!is.element("plyr", installed.packages()[, 1])) {
 }
 library(plyr)
 
-##set working directory
-setwd("~/Desktop/MyClass/Course 3 - Getting and Cleaning Data/Project")
-
 ## 1. Merges the training and the test sets to create one data set.
 
 ## read the 3 txt files - subject_test.txt, X_test.txt and y_test.txt in subfolder test
