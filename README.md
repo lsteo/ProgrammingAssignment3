@@ -12,8 +12,6 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-This repo explains how all of the scripts work and how they are connected.  
-
 
 ## Installation ##
 
